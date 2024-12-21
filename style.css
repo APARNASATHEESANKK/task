@@ -1,0 +1,242 @@
+*{
+   Margin:0;
+   Padding :0;
+   font-family: "Roboto", sans-serif;
+ }
+#container {
+   Width:100%;
+   Position:relative ;
+   margin-top: 80px;
+}
+   nav{
+      display:flex;
+      align-items:center;
+ 
+   margin-left:40px;
+   margin-top: -70px;
+
+   }
+   .link-items{
+    margin-top: -20px;
+    font-weight: 10px;
+    
+    font-style: normal;
+   }
+   .list-items {
+        Display:inline;
+        Margin:0px 1px;
+        margin-left:200px;
+        margin-right: -190px;
+        margin-top: 805px;
+        font-family: "Open Sans", sans-serif;
+        font-style: normal;
+
+   }
+   .links{
+       Text-decoration:none;
+       Color:black  ;
+       Font-weight:bold;
+   Font:10px;
+   margin-top: -750px;
+   }
+ .icon-collection{
+   display: flex;
+   margin-left: 1250px;
+   margin-top: -25px;
+  
+ }
+ .icon{
+   height: 40px;
+   width: 40px;
+   margin-top: -3px;
+ }
+ .home-img{
+  height: 50px;
+  width: 92px;
+  margin-left: -1500px;
+  margin-top: 60px;
+ }
+ .img1{
+  height: 665px;;
+  width: 1563px;     
+ }
+ .home-content{
+  margin: 13%,0%,0%,0%;
+ }
+
+ .home-images{
+  width: 650px;
+  margin-top: -10px;
+  display: inline;
+ }
+ .image2{
+  margin-top: 725px;
+  width: 405px;
+  margin-left: -49px;
+ }
+.about-image{
+  margin-top: 1480px;
+  height: 90px;
+  width: 1600px;
+  margin-left: -1590px;
+}
+.middle-image{
+  margin-top: 2295px;
+  height: 90px;
+  width: 650px;
+  margin-left: -1500px;
+}
+.gallery-image{
+  margin-top: 3075px;
+  height: 90px;
+  width: 650px;
+  margin-left: -1500px;
+}
+.gallery-video{
+  margin-top: 3890px;
+  height: 90px;
+  width: 650px;
+  margin-left: -1500px;
+}
+.col{
+  width: 1480px;
+  height: 650px;
+  border: 2px solid white;
+  background-color: white;
+  margin-top: 4725px;
+  margin-left: -620px;
+}
+#name{
+  color: black;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+.name-para{
+  margin-left: 40px;
+  color: rgb(99, 94, 94);
+}
+#name2{
+  margin-left: 400px;
+  margin-top: -199px;
+}
+.name2-para{
+  margin-left: 400px;
+  margin-top: 20px;
+  color: rgb(99, 94, 94);
+}
+#name3{
+  margin-left: 900px;
+  margin-top: -140px;
+}
+.name3-para{
+  margin-left: 900px;
+  margin-top: -5px;
+  color: rgb(99, 94, 94);
+}
+#name4{
+  margin-left: 1300px;
+  margin-top: -160px;
+}
+.name4-para{
+  margin-left: 1300px;
+  margin-top: 28px;
+  color: rgb(99, 94, 94);
+}
+.icon-collection1{
+  display: flex;
+  margin-left: 690px;
+  margin-top: 100px;
+  height: 90px;
+  width: 90px;
+}
+.brand{
+  color: black;
+  font-size: 30px;
+}
+.icon1{
+  height: 100px;
+  width: 100px;
+}
+.icon2{
+  height: 100px;
+  width: 100px;
+  margin-left: 15px;
+}
+.icon3{
+  height: 100px;
+  width: 100px;
+  margin-left: 15px;
+}
+.limg{
+  height: 40px;
+  width: 190px;
+  margin-top: 60px;
+  margin-left: -200px;
+}
+.limg1{
+  height: 40px;
+  width: 190px;
+  margin-top: 60px;
+  margin-left: 20px;
+}
+.imgl{
+  margin-top: 130px;
+  margin-left: -200px;
+}
+.imgw{
+  width: 700px;
+  height: 20px;
+  margin-top: 205px;
+  margin-left: -400px;
+}
+.images{
+  height: 40px;
+  width: 40px;
+  margin-left: 100px;
+}
+.images1{
+  margin-top: 250px;
+  margin-left: -550px;
+}
+.images2{
+  margin-top: 250px;
+  margin-left: 20px;
+}
+.images3{
+  margin-top: 250px;
+  margin-left: 20px;
+  
+}
+.images4{
+  margin-top: 250px;
+  margin-left: 20px;
+  
+}
+.images5{
+  margin-top: 250px;
+  margin-left: 20px;
+  
+}
+.images6{
+  margin-top: 250px;
+  margin-left: 20px;
+  
+}
+.images7{
+  margin-top: 250px;
+  margin-left: 20px;
+ 
+}
+.images8{
+  margin-top: 250px;
+  margin-left: 20px;
+ 
+}
+.images9{
+  margin-top: 250px;
+  margin-left: 20px;
+  
+}
+
+
+
